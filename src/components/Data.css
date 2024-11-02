@@ -1,0 +1,19 @@
+.component{
+    text-align: center;
+  
+}
+
+.center{
+    display: flex;
+  justify-content: center; /* Horizontal centering */
+  align-items: center; 
+}
+
+.data{
+   
+    width: 600px;
+    height: 200px;
+    border: 2px solid skyblue;
+    margin: 25px;
+    padding: 15px;
+}
